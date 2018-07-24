@@ -1,4 +1,4 @@
 print("Enter your name:")
-x = input()
+x = raw_input()
 print("Hello, " + x)
 
